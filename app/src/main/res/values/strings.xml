@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Linktech</string>
+    <string name="not_registered">not_registered</string>
+    <string name="login">login</string>
+    <string name="password">password</string>
+    <string name="username">username</string>
+    <string name="register">register</string>
+    <string name="pass_or_fail">pass or fail</string>
+</resources>
