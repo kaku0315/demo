@@ -13,6 +13,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
 
+
+//update java file_0620
 public class MainActivity extends AppCompatActivity {
 
     EditText mTextUsername;
