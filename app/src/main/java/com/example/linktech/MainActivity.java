@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
 
                 if(username.equals("linktech")==true){
                     if(password.equals("linktech")==true){
-                        mTextViewPorF.setText("Pass");
+                        mTextViewPorF.setText("Incorrect PassWord");
                     }
                     else{
                         mTextViewPorF.setText("Incorrect PassWord");
